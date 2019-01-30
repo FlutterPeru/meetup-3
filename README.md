@@ -10,7 +10,6 @@ Repo: https://github.com/diegoveloper/flutter_codelab_2
 
 - **"Introducción a Redux" - Edgar Huamaní**
 
-#Repo  : https://github.com/FlutterPeru/whatsapp
 
 - **"Getting started con Flare" - Hansy Schmitt**
 
