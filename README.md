@@ -5,6 +5,7 @@
 - **"Stateful & Async Widgets" - Diego Velásquez**
 
 Slides : https://speakerdeck.com/diegoveloper/stateful-and-async-widgets
+
 Repo: https://github.com/diegoveloper/flutter_codelab_2
 
 
