@@ -11,6 +11,9 @@ Repo: https://github.com/diegoveloper/flutter_codelab_2
 
 - **"Introducción a Redux" - Edgar Huamaní**
 
+Slides: https://docs.google.com/presentation/d/1-XhoYOb1Ao8f0OR_4uVu73vJ_pc7nxwoTR9YSK8vZQ8/edit?usp=sharing
+Repo: https://github.com/EdHuamani/flutter_redux_sample_1/
+
 
 - **"Getting started con Flare" - Hansy Schmitt**
 
